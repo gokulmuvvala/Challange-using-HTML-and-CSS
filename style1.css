@@ -1,0 +1,80 @@
+body {
+  color: black;
+  background-color: #c9d8b6;
+  font-family: "STIX Two Math", serif;
+  border: 2px #515e63;
+  padding: 2px;
+}
+h1 {
+  text-align: center;
+  font-size: 50px;
+  max-width: 50%;
+  font-family: "STIX Two Math", serif;
+  margin: auto;
+}
+h2 {
+  text-align: left;
+  font-size: 35px;
+  width: auto;
+  font-family: "STIX Two Math", serif;
+  margin:auto;
+}
+h3{
+  max-width:auto;
+  text-align:justify;
+  height: 20px;
+}
+  h4 {
+    width: 6.5%;
+    font-size: 16px;
+    font-family: cursive;
+    background-color: black;
+    border-radius: 15px;
+}
+hr{
+    border-style:black; 
+}
+.navbar {
+  background-color: #515e63;
+  color: white;
+  padding: auto;
+  border-radius: 30px;
+}
+.navbar ul {
+  font-family: "Oswald", sans-serif;
+  overflow: auto;
+  text-decoration: none;
+}
+.navbar li {
+  font-family: "Oswald", sans-serif;
+  text-decoration: none;
+  float: left;
+  font-size: x-large;
+  list-style: none;
+  margin: 13px 20px;
+}
+.navbar li a {
+    padding: 3px 3px;
+    text-decoration: none;
+    color: black;
+  }
+.navbar li a:hover {
+  color: #c9d8b6;
+}
+p{
+  text-align: left;
+  color: black;
+  font-size:20px;
+}
+.mypic{
+  border-image: auto;
+  border-radius: 40%;
+  width: 11%;
+  height: 40%;
+}
+img {
+    width:60px;
+    height:60px;
+    border-radius: 45px;
+    background-image:  #c9d8b6;
+}
